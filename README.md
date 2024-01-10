@@ -12,12 +12,13 @@
 * 🔧 Solving complex problems in the world of electronics
 
 ## My Interests
-* 🤖 Robotics and PLC automation
+* 🤖 Robotics and industrial automation
 * 🌐 Internet of Things (IoT) applications
 * 🛠️ Power eletronics
+* 🏔 Hiking enthusiast
 
 ## Get in Touch
 * 📧 Email: simaolopes98@gmail.com
-* 🔗 LinkedIn: 
+* 🔗 LinkedIn: https://www.linkedin.com/in/simao-pedro-lopes/
 
 Feel free to reach out if you'd like to collaborate on an interesting project or have a chat about embedded systems and coding!
