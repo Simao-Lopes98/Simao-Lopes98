@@ -9,7 +9,7 @@
 * 🛠️ Developing firmware for embedded systems
 * 🌐 Exploring IoT and connected devices
 * 📚 Continuous learning and implementing new technologies
-* 🔧 Solving complex problems in the world of electronics
+* 🔧 Solving complex problems in the world of electronics and embedded systems
 
 ## My Interests
 * 🤖 Robotics and industrial automation
