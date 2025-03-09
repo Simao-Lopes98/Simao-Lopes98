@@ -1,9 +1,9 @@
 # Hi there, I'm Simão Lopes! 👋
 
 ## About me
-* 🎓 Masters (ongoing) in Electrical Engineering
+* 🎓 Masters in Electrical Engineering
 * 💼 Working ATM as Embedded Systems Engineer
-* 💻 Proficient in C/C++ and occasional Python coder
+* 💻 Proficient in C
 
 ## What I do
 * 🛠️ Developing firmware for embedded systems
